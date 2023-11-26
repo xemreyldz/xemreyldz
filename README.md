@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emre YILDIZ</h1>
-<h3 align="center">A Passionate Full-Stack Developer From Turkey</h3>
+<h3 align="center">A Passionate Junior Web Developer From Turkey</h3>
 
 <img align= "right" alt="Coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
  
